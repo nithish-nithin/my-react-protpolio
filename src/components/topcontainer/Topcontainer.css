@@ -1,0 +1,9 @@
+ .topcontainer{
+      background-image: url(../images/Screenshot_2021-08-01-16-32-11-08.jpg);
+      height: 100vh;
+      background-position: center;
+      background-size: cover;
+      box-shadow: inset 0 0 0 2000px black (0,0,0,0.5);      
+ }
+   
+  

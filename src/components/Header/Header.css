@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Peralta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@0;1&family=Peralta&display=swap');
+
+
+.header{
+    display: flex;
+     align-items: center;
+     color: white;
+     background-color: black;
+     top: 0;
+     position: sticky;
+     z-index: 2000;
+     
+
+}
+.header__left{
+    flex: 0.4;
+}
+.header__left >h1{
+    text-align: center;
+    font-family: "Alata",sans-serif;
+    letter-spacing: 1px;
+    padding: 20px 0;
+}
+.header__left>h1{
+    color: white;
+    
+}
+span{
+    color: rgb(138, 222, 255);
+}
+.header__right{
+    display: flex;
+    flex:0.6;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.header__right>a>h4{
+    font-size: 18px;
+    cursor: pointer;
+    transition: tranform 200ms ease-in-out;
+    font-family: 'Crimson Text',serif;
+    padding: 20px 0;
+    letter-spacing: 1px;
+
+
+
+
+
+}
+.header__right>a>h4:hover{
+transform: scale(1.09);
+background-color: rgb(138, 222, 255);
+color: black;
+padding: 5px 20px;
+border-radius: 2px;
+letter-spacing: 1px;
+font-family: 'Crimson Text',serif;
+cursor: pointer;
+font-size: 18px;
+}
+.header__rightbutton{
+    background-color: rgb(138, 222, 255);
+    border-radius: 1px;
+    cursor: pointer;
+    color: black;
+    padding: 5px 20px;
+}

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=WindSong&display=swap');
+     .topcontent{
+      color: white;
+      position: absolute;
+      top: 300px;
+      right: 150px;
+  }
+  .para{
+    padding: 0%;
+    color: black;
+    
+  }
+  h1{
+    font-size: 4rem;
+    padding: 0%;
+    margin: 0%;
+    color: rgb(38, 184, 241);
+  }
+  .sp{
+    color: black;
+    font-family: 'Noto+serif';
+  }
+  .download_btn{
+    color: black;
+    background-color: rgb(38, 184, 241);
+    padding: 10px;
+    border-radius: 6px;
+    font-weight: 300;
+
+  }
+  .work_btn{
+    color: black;
+    background-color: rgb(38, 184, 241);
+    padding: 10px;
+    border-radius: 6px;
+    font-weight: 300;
+    margin-left: 0.4rem;
+
+  }
