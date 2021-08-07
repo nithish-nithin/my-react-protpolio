@@ -1,0 +1,15 @@
+ .contact1{
+     align-items: center;
+     justify-content: center;
+     margin: 200px 0 100px;
+     display: flex;
+     flex-direction: column;
+     border: solid white;
+     width: 600px;
+    margin-left: 24rem;
+    
+
+
+     
+ }
+  

@@ -27,6 +27,8 @@
     padding: 10px;
     border-radius: 6px;
     font-weight: 300;
+    cursor: pointer;
+    border: solid black;
 
   }
   .work_btn{
@@ -36,5 +38,7 @@
     border-radius: 6px;
     font-weight: 300;
     margin-left: 0.4rem;
+    border: solid black;
+    
 
   }

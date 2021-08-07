@@ -1,0 +1,25 @@
+.skillimg{
+  padding: 100px;
+  border-radius: 5px;
+  flex: 0.4;
+
+}
+
+.skill{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 200px 0;
+}
+.skill_text{
+  color: aliceblue;
+  flex: 0.6;
+  max-width: 500px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+.skillset{
+  color: white;
+}
+
+

@@ -1,0 +1,18 @@
+.experiance{
+    display: flex;
+    flex-direction: column;
+    border: 2px dotted white;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    overflow: hidden;
+    width: 200px;
+}
+.experiance>p{
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+p{
+    color: white;
+}

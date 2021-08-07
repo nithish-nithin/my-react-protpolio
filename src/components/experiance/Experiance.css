@@ -1,0 +1,24 @@
+ .excont{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     margin: 200px 0;
+     align-items: center;
+ }
+ .excont >h1{
+     padding-bottom: 20px;
+ }
+ .infoo{
+     display: flex;
+      justify-content: space-evenly;
+      z-index: 2000px;
+      background: url(../images/how-to-become-software-engineer.jpg.webp);
+      height: 300px;
+      align-items: center;
+      background-position: center;
+      background-size: cover;
+      z-index: 1000px;
+      width: 80vw;
+
+      
+ }
